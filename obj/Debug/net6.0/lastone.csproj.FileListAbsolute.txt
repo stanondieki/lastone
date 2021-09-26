@@ -1,0 +1,15 @@
+C:\Users\nyandika\source\repos\lastone\bin\Debug\net6.0\lastone.exe
+C:\Users\nyandika\source\repos\lastone\bin\Debug\net6.0\lastone.deps.json
+C:\Users\nyandika\source\repos\lastone\bin\Debug\net6.0\lastone.runtimeconfig.json
+C:\Users\nyandika\source\repos\lastone\bin\Debug\net6.0\lastone.dll
+C:\Users\nyandika\source\repos\lastone\bin\Debug\net6.0\ref\lastone.dll
+C:\Users\nyandika\source\repos\lastone\bin\Debug\net6.0\lastone.pdb
+C:\Users\nyandika\source\repos\lastone\obj\Debug\net6.0\lastone.csproj.AssemblyReference.cache
+C:\Users\nyandika\source\repos\lastone\obj\Debug\net6.0\lastone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyandika\source\repos\lastone\obj\Debug\net6.0\lastone.AssemblyInfoInputs.cache
+C:\Users\nyandika\source\repos\lastone\obj\Debug\net6.0\lastone.AssemblyInfo.cs
+C:\Users\nyandika\source\repos\lastone\obj\Debug\net6.0\lastone.csproj.CoreCompileInputs.cache
+C:\Users\nyandika\source\repos\lastone\obj\Debug\net6.0\lastone.dll
+C:\Users\nyandika\source\repos\lastone\obj\Debug\net6.0\ref\lastone.dll
+C:\Users\nyandika\source\repos\lastone\obj\Debug\net6.0\lastone.pdb
+C:\Users\nyandika\source\repos\lastone\obj\Debug\net6.0\lastone.genruntimeconfig.cache
